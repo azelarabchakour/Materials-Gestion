@@ -1,0 +1,13 @@
+#view {
+
+	border-style: solid;
+	border-color: maroon;
+	width: 70%;
+
+
+}
+
+#view tr {
+
+	background-color: pink;
+}
